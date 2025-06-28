@@ -1,6 +1,6 @@
 # HeadStart 
 
-Unlock your career potential with HeadStart — a modern, responsive career development web app.
+Unlock your career potential with HeadStart — a modern, responsive career development web app. 
 
 ## Project Overview
 HeadStart is a career development platform and book companion site, built with modern web technologies for speed, accessibility, and a beautiful user experience.
